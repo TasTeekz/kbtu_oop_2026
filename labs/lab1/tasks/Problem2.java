@@ -1,4 +1,7 @@
-package lab1;
+package labs.lab1.tasks;
+
+import labs.lab1.models.AccountType;
+import labs.lab1.models.BankAccount;
 
 public class Problem2 {
     public static void main(String[] args) {

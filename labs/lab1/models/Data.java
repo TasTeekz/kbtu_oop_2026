@@ -1,6 +1,6 @@
-package lab1;
+package labs.lab1.models;
 
-class Data {
+public class Data {
     private double sum;
     private double max;
     private int count;

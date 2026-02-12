@@ -1,28 +1,23 @@
-package lab1;
-
-enum Scale {
-    CELCIUS,
-    FAHRENHEIT
-}
+package labs.lab1.models;
 
 public class Temperature {
     private double value;
     private Scale scale;
 
-    Temperature(double value, Scale scale) {
+    public Temperature(double value, Scale scale) {
         this.value = value;
         this.scale = scale;
     }
 
-    Temperature(double value) {
+    public Temperature(double value) {
         this(value, Scale.CELCIUS);
     }
 
-    Temperature(Scale scale) {
+    public Temperature(Scale scale) {
         this(0.0, scale);
     }
 
-    Temperature() {
+    public Temperature() {
         this(0.0, Scale.CELCIUS);
     }
 

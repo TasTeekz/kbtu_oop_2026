@@ -1,22 +1,6 @@
-package lab1;
+package labs.lab1.models;
 
-enum AccountType {
-    SAVINGS(0.03), // 3%
-    CHECKING(0.01), // 1%
-    PREMIUM(0.05); // 5%
-
-    private final double interestRate;
-
-    AccountType(double interestRate) {
-        this.interestRate = interestRate;
-    }
-
-    public double getInterestRate() {
-        return interestRate;
-    }
-}
-
-class BankAccount {
+public class BankAccount {
     // final non-static (read-only)
     private final String accountNumber;
     private final AccountType accountType;

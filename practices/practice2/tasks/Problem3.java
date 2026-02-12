@@ -1,4 +1,6 @@
-package practice2;
+package practices.practice2.tasks;
+
+import practices.practice2.models.Time;
 
 public class Problem3 {
     public static void main(String[] args) {

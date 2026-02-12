@@ -1,3 +1,5 @@
+package practices.practice1.tasks;
+
 import java.util.Scanner;
 
 public class Problem4 {
@@ -5,16 +7,17 @@ public class Problem4 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("a = ");
-        Integer a = scanner.nextInt();
+        int a = scanner.nextInt();
         System.out.println("b = ");
-        Integer b = scanner.nextInt();
+        int b = scanner.nextInt();
         System.out.println("c = ");
-        Integer c = scanner.nextInt();
+        int c = scanner.nextInt();
         scanner.close();
 
         double discriminant = b * b - 4.0 * a * c;
 
-        if (discriminant < 0) System.out.println("error. d < 0");
+        if (discriminant < 0)
+            System.out.println("error. d < 0");
         else if (discriminant == 0) {
             double root = -b / (2.0 * a);
             System.out.println("x = " + root);

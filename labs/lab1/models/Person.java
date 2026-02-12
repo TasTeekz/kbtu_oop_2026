@@ -1,10 +1,7 @@
-package lab1;
+package labs.lab1.models;
 
-enum Gender {
-    BOY, GIRL
-}
 
-class Person {
+public class Person {
     private Gender gender;
     private String name;
 

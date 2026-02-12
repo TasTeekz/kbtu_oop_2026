@@ -1,4 +1,4 @@
-package practice2;
+package practices.practice2.models;
 
 public class Student {
     int id;

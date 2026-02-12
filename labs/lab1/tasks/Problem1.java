@@ -1,6 +1,7 @@
-package lab1;
+package labs.lab1.tasks;
 
 import java.util.Scanner;
+import labs.lab1.models.Data;
 
 public class Problem1 {
     public static void main(String[] args) {

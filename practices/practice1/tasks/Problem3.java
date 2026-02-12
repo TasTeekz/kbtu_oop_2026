@@ -1,3 +1,5 @@
+package practices.practice1.tasks;
+
 import java.util.Scanner;
 
 public class Problem3 {
@@ -5,7 +7,7 @@ public class Problem3 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("grade = ");
-        Integer grade = scanner.nextInt();
+        int grade = scanner.nextInt();
         scanner.close();
 
         String letterGrade;
@@ -13,7 +15,8 @@ public class Problem3 {
             String[] grades = { "D", "D+", "C-", "C", "C+", "B-", "B", "B+", "A-", "A" };
             int index = Math.min((grade - 50) / 5, 9);
             letterGrade = grades[index];
-        } else letterGrade = "F";
+        } else
+            letterGrade = "F";
 
         System.out.println(letterGrade);
     }

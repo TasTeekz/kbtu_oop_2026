@@ -1,4 +1,6 @@
-package practice2;
+package practices.practice2.tasks;
+
+import practices.practice2.models.Student;
 
 public class Problem1 {
     public static void main(String[] args) {

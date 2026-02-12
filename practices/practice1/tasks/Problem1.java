@@ -1,3 +1,5 @@
+package practices.practice1.tasks;
+
 import java.util.Scanner;
 
 public class Problem1 {

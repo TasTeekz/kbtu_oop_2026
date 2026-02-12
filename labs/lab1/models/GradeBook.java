@@ -1,10 +1,10 @@
-package lab1;
+package labs.lab1.models;
 
 import java.util.ArrayList;
 
-import practice2.Student;
+import practices.practice2.models.Student;
 
-class GradeBook {
+public class GradeBook {
     private Course course;
     private ArrayList<Student> students;
     private ArrayList<Integer> grades;
