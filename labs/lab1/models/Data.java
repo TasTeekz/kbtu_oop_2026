@@ -27,6 +27,9 @@ public class Data {
     }
 
     public double getMaximum() {
+        if (count == 0) {
+            return 0.0;
+        }
         return max;
     }
 }
