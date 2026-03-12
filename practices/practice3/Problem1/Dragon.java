@@ -10,7 +10,7 @@ public class Dragon extends Animal {
     }
 
     public Dragon(String name) {
-        super("Dragon"); 
+        super("Dragon");
         this.name = name;
     }
 
