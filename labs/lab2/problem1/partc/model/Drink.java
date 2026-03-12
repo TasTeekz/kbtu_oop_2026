@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Drink {
 
     private String name;
-    private double volume; // ml
+    private double volume;
 
     public Drink(String name, double volume) {
         this.name = name;

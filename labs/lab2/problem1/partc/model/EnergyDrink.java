@@ -5,7 +5,7 @@ import java.util.Objects;
 public class EnergyDrink extends Drink {
 
     private int caffeineMg;
-    private int heartAttackRiskLevel; // 1–10
+    private int heartAttackRiskLevel;
 
     public EnergyDrink(String name, double volume, int caffeineMg, int riskLevel) {
         super(name, volume);
