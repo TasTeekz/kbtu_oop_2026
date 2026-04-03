@@ -1,4 +1,4 @@
-package labs.lab1.models;
+package lab1.models;
 
 public class Data {
     private double sum;

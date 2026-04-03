@@ -1,9 +1,9 @@
-package labs.lab1.tasks;
+package lab1.tasks;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-import labs.lab1.models.Course;
-import labs.lab1.models.GradeBook;
+import lab1.models.Course;
+import lab1.models.GradeBook;
 import practices.practice2.models.Student;
 
 public class Problem4 {

@@ -1,15 +1,15 @@
-package practices.practice2.tasks;
+// package practices.practice2.tasks;
 
-import practices.practice2.models.Time;
+// import practices.practice2.models.Time;
 
-public class Problem3 {
-    public static void main(String[] args) {
-        Time t = new Time(23, 5, 6);
-        System.out.println(t.toUniversal());
-        System.out.println(t.toStandard());
+// public class Problem3 {
+//     public static void main(String[] args) {
+//         Time t = new Time(23, 5, 6);
+//         System.out.println(t.toUniversal());
+//         System.out.println(t.toStandard());
 
-        Time t2 = new Time(4, 24, 33);
-        t.add(t2);
-        System.out.println(t.toUniversal());
-    }
-}
+//         Time t2 = new Time(4, 24, 33);
+//         t.add(t2);
+//         System.out.println(t.toUniversal());
+//     }
+// }

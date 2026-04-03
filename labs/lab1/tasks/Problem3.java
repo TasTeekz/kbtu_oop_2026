@@ -1,7 +1,7 @@
-package labs.lab1.tasks;
+package lab1.tasks;
 
-import labs.lab1.models.Scale;
-import labs.lab1.models.Temperature;
+import lab1.models.Scale;
+import lab1.models.Temperature;
 
 public class Problem3 {
     public static void main(String[] args) {

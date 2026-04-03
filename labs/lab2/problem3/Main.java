@@ -1,6 +1,6 @@
-package labs.lab2.problem3;
+package lab2.problem3;
 
-import labs.lab2.problem3.model.*;
+import lab2.problem3.model.*;
 
 public class Main {
     public static void main(String[] args) {

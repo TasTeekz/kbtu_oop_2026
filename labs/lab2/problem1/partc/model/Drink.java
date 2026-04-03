@@ -1,4 +1,4 @@
-package labs.lab2.problem1.partc.model;
+package lab2.problem1.partc.model;
 
 import java.util.Objects;
 

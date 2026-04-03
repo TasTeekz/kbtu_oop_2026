@@ -1,8 +1,8 @@
-package labs.lab2.problem2.service;
+package lab2.problem2.service;
 
 import java.util.Scanner;
 
-import labs.lab2.problem2.model.*;
+import lab2.problem2.model.*;
 
 public class Chess {
     private final Board board;

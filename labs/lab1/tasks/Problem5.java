@@ -1,8 +1,8 @@
-package labs.lab1.tasks;
+package lab1.tasks;
 
-import labs.lab1.models.Gender;
-import labs.lab1.models.Person;
-import labs.lab1.models.DragonLaunch;
+import lab1.models.Gender;
+import lab1.models.Person;
+import lab1.models.DragonLaunch;
 
 public class Problem5 {
     public static void main(String[] args) {

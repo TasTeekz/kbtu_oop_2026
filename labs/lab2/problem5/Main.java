@@ -1,13 +1,6 @@
-package labs.lab2.problem5;
+package lab2.problem5;
 
-import labs.lab2.problem5.model.Animal;
-import labs.lab2.problem5.model.Cat;
-import labs.lab2.problem5.model.Dog;
-import labs.lab2.problem5.model.Employee;
-import labs.lab2.problem5.model.Person;
-import labs.lab2.problem5.model.PersonRegistry;
-import labs.lab2.problem5.model.PhDStudent;
-import labs.lab2.problem5.model.Student;
+import lab2.problem5.model.*;
 
 public class Main {
     public static void main(String[] args) {

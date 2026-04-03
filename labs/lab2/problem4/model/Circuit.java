@@ -1,4 +1,4 @@
-package labs.lab2.problem4.model;
+package lab2.problem4.model;
 
 public abstract class Circuit {
     public abstract double getResistance();

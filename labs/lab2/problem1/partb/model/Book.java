@@ -1,4 +1,4 @@
-package labs.lab2.problem1.partb.model;
+package lab2.problem1.partb.model;
 
 public class Book extends LibraryItem {
 

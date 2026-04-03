@@ -1,4 +1,4 @@
-package labs.lab2.problem2.model;
+package lab2.problem2.model;
 
 public class Board {
     public static final int SIZE = 8;

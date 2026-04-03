@@ -1,4 +1,4 @@
-package labs.lab2.problem4.model;
+package lab2.problem4.model;
 
 public class Series extends Circuit {
 

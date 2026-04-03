@@ -1,4 +1,4 @@
-package labs.lab2.problem3.model;
+package lab2.problem3.model;
 
 public class Account {
 

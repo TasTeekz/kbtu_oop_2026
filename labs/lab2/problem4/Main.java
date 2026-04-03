@@ -1,9 +1,9 @@
-package labs.lab2.problem4;
+package lab2.problem4;
 
-import labs.lab2.problem4.model.Circuit;
-import labs.lab2.problem4.model.Parallel;
-import labs.lab2.problem4.model.Resistor;
-import labs.lab2.problem4.model.Series;
+import lab2.problem4.model.Circuit;
+import lab2.problem4.model.Parallel;
+import lab2.problem4.model.Resistor;
+import lab2.problem4.model.Series;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package labs.lab2.problem1.partc;
+package lab2.problem1.partc;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import labs.lab2.problem1.partc.model.*;
+import lab2.problem1.partc.model.*;
 
 public class Main {
     public static void main(String[] args) {

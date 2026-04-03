@@ -1,4 +1,4 @@
-package labs.lab2.problem1.parta.model;
+package lab2.problem1.parta.model;
 
 public class Cylinder extends Shape3D {
 
